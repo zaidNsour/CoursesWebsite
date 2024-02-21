@@ -45,5 +45,6 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 This project is licensed under the MIT License.
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/zaid-nsour-2075632a8)
+
 -Feel free to reach out with any questions, feedback, or collaboration opportunities!
+ [LinkedIn](www.linkedin.com/in/zaid-nsour-2075632a8)
