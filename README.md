@@ -34,12 +34,12 @@ Step 3: Start the PHP development server
 Step 4: Open your web browser and go to http://localhost:8000
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to the project, follow these steps:
--**Fork the repository.**
--**Create a new branch: git checkout -b feature/new-feature.**
--**Make your changes and commit them: git commit -m 'Add new feature'.**
--**Push to the branch: git push origin feature/new-feature.**
--**Submit a pull request.**
+ If you'd like to contribute to the project, follow these steps:
+- **Fork the repository.**
+- **Create a new branch: git checkout -b feature/new-feature.**
+- **Make your changes and commit them: git commit -m 'Add new feature'.**
+- **Push to the branch: git push origin feature/new-feature.**
+- **Submit a pull request.**
 
 ## License
 This project is licensed under the MIT License.
