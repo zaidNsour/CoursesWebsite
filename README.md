@@ -49,7 +49,3 @@ Step 4: Open your web browser and go to http://localhost:8000
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-
--Feel free to reach out with any questions, feedback, or collaboration opportunities!
- [LinkedIn]( www.linkedin.com/in/zaid-nsour-2075632a8 )
