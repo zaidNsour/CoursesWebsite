@@ -35,6 +35,7 @@ Step 4: Open your web browser and go to http://localhost:8000
 
 ## Contributing
  If you'd like to contribute to the project, follow these steps:
+ 
 1- Fork the repository.
 
 2- Create a new branch: git checkout -b feature/new-feature.
