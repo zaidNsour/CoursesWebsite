@@ -52,4 +52,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 -Feel free to reach out with any questions, feedback, or collaboration opportunities!
- [LinkedIn](www.linkedin.com/in/zaid-nsour-2075632a8)
+ [LinkedIn]( www.linkedin.com/in/zaid-nsour-2075632a8 )
