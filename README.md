@@ -21,15 +21,15 @@ Step 1. Clone the repository:
 
 ```bash
    git clone https://github.com/ZaidNsour/LearnTech.git
-```bash
+```
 Step 2: Navigate to the project folder
 ```bash
    cd LearnTech
-```bash
+```
 Step 3: Start the PHP development server
  ```bash
    php -S localhost:8000
-```bash
+```
 
 Step 4: Open your web browser and go to http://localhost:8000
 
