@@ -6,6 +6,8 @@ Welcome to LearnTech, a simple and intuitive online learning platform built with
 
 ## Features
 
+
+- **Responsive Design:** This project prioritizes a responsive design approach, ensuring optimal user experiences on various devices.
 - **Dynamic Navigation:** Straightforward navigation through Home, About, Courses, Reviews, and Contact sections.
 - **Personalization:** Welcomes logged-in users by name, creating a sense of community.
 - **Diverse Course Offerings:** Explore courses in web development, cybersecurity, Flutter & Dart, data science, and more.
