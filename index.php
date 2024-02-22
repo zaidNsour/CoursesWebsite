@@ -6,8 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LearnTech</title>
     
-    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/all.min.css">
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+   
     <!--google font-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,22 +54,21 @@
 					  
 			  ?>
     </div>
+
     <!--End header-->
 
      <!--Start landing-->
-     <div class="landing">
-      <div class="container">
-        <div class="text">
-          <h1>WE ENSURE A BETTER EDUCATION <br> FOR A BETTER WORLD</h1>
+    <div class="landing">
+     <!--  <div class="container"> -->
+      <div class="text">
+          <h1>WE ENSURE A BETTER EDUCATION <br> FOR YOU AND A BETTER WORLD</h1>
           <p>
           Our online courses are built in partnership with technology
-          leaders and are designed to meet industry demands.
+          leaders and are designed to<br> meet industry demands.
           </p>
         </div>
-        <div class="image">
-          <img src="images/landing.jpg" alt="">
-        </div>
-      </div>
+     <!-- </div>  -->
+      
     </div>
     <!--End landing-->
 
@@ -254,45 +255,92 @@
     <div class="reviews" id="reviews">
       <h2 class="main-title">Reviews</h2>
       <div class="container">
+      <div class="reviewItem">
+                <div class="top">
+                    <div class="clientImage">
+                        <img src="images/guy1.jpg" alt="">
+                        <span>Raju Sheoran</span>
+                    </div>
+                    <ul>
 
-          <div class="reviewItem">
-            <div class="top">   
-              <span>MATTHEW V.</span>   
-            </div>
-            <article>
-              <p class="review">
-                The course progressed smoothly and was enjoyable in the beginning,
-                which was great for getting warmed up and comfortable with the subject.
-                </p>
-              <p>Jan 01, 2023</p>
-            </article>
-          </div>
+                      <!--starts--> 
+                    </ul>
+                </div>
 
-          <div class="reviewItem">
-            <div class="top">   
-              <span>DARREN K</span>   
-            </div>
-            <article>
-              <p class="review">
-                The course progressed smoothly and was enjoyable in the beginning,
-                which was great for getting warmed up and comfortable with the subject.
-              </p>
-              <p>Jan 01, 2023</p>
-            </article>
-          </div>
+                <div class="starts">
+                  <ul>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-regular fa-star"></i></li>
+                    
+                   </ul>  
+                </div>
 
-          <div class="reviewItem">
-            <div class="top">   
-              <span>JENNIFER P.</span>   
+
+                        
+                <article>
+                    <p class="review">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit beatae ipsa
+                        voluptatibus perferendis quos eaque nemo error tempora harum quas, laudantium tenetur, neque,
+                        facere exercitationem!</p>
+                    <p>Jan 01, 2023</p>
+                </article>
             </div>
-            <article>
-              <p class="review">
-                The course progressed smoothly and was enjoyable in the beginning,
-                which was great for getting warmed up and comfortable with the subject.  
-              </p>
-              <p>Jan 01, 2023</p>
-            </article>
-          </div>
+
+        <!-- Clients Review-2 Section Starts from Here  -->
+            <div class="reviewItem">
+                <div class="top">
+                    <div class="clientImage">
+                        <img src="images/guy1.jpg" alt="">
+                        <span>Raju Sheoran</span>
+                    </div>
+                    
+                </div>
+
+                <div class="starts">
+                  <ul>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                   </ul>  
+                </div>
+
+                <article>
+                    <p class="review">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit beatae ipsa
+                        voluptatibus perferendis quos eaque nemo error tempora harum quas, laudantium tenetur, neque,
+                        facere exercitationem!</p>
+                    <p>Jan 01, 2023</p>
+                </article>
+            </div>
+
+        <!-- Clients Review-3 Section Starts from Here  -->
+            <div class="reviewItem">
+                <div class="top">
+                    <div class="clientImage">
+                        <img src="images/guy1.jpg" alt="">
+                        <span>Raju Sheoran</span>
+                    </div>
+        
+                </div>
+                <div class="starts">
+                  <ul>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>
+                    <li><i class="fa-solid fa-star"></i></li>  <!-- fa-regular fa-star-->
+                   </ul>  
+                </div>
+                <article>
+                    <p class="review">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit beatae ipsa
+                        voluptatibus perferendis quos eaque nemo error tempora harum quas, laudantium tenetur, neque,
+                        facere exercitationem!</p>
+                    <p>Jan 01, 2023</p>
+                </article>
+            </div>
 
       </div>
     </div>
@@ -350,9 +398,10 @@
     <!--End contact-us-->
 
     <!--End footer-->
-      <div class="footer">
-      <p>Copyright &copy; 2024, Zaid Nsour</p> 
-      </div>
+
+    <footer>
+    <p>Copyright &copy; 2024, Zaid Nsour</p> 
+    </footer>          
     <!--End footer-->
 
 
