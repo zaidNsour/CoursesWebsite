@@ -259,12 +259,8 @@
                 <div class="top">
                     <div class="clientImage">
                         <img src="images/guy1.jpg" alt="">
-                        <span>Raju Sheoran</span>
+                        <span>MATTHEW V.</span>
                     </div>
-                    <ul>
-
-                      <!--starts--> 
-                    </ul>
                 </div>
 
                 <div class="starts">
@@ -281,9 +277,12 @@
 
                         
                 <article>
-                    <p class="review">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit beatae ipsa
-                        voluptatibus perferendis quos eaque nemo error tempora harum quas, laudantium tenetur, neque,
-                        facere exercitationem!</p>
+                    <p class="review">
+                    Hello! I started the course knowing almost nothing about web development,
+                    but by the time I finished, I felt confident in many topics. The course
+                    progressed smoothly and was enjoyable in the beginning, which was great
+                    for getting warmed up and comfortable with the subject
+                    </p>
                     <p>Jan 01, 2023</p>
                 </article>
             </div>
@@ -292,8 +291,8 @@
             <div class="reviewItem">
                 <div class="top">
                     <div class="clientImage">
-                        <img src="images/guy1.jpg" alt="">
-                        <span>Raju Sheoran</span>
+                        <img src="images/guy2.jpg" alt="">
+                        <span>JOHN K.</span>
                     </div>
                     
                 </div>
@@ -309,9 +308,12 @@
                 </div>
 
                 <article>
-                    <p class="review">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit beatae ipsa
-                        voluptatibus perferendis quos eaque nemo error tempora harum quas, laudantium tenetur, neque,
-                        facere exercitationem!</p>
+                    <p class="review">
+                    Hello! I started the course knowing almost nothing about web development,
+                    but by the time I finished, I felt confident in many topics. The course
+                    progressed smoothly and was enjoyable in the beginning, which was great
+                    for getting warmed up and comfortable with the subject
+                    </p>
                     <p>Jan 01, 2023</p>
                 </article>
             </div>
@@ -320,7 +322,7 @@
             <div class="reviewItem">
                 <div class="top">
                     <div class="clientImage">
-                        <img src="images/guy1.jpg" alt="">
+                        <img src="images/guy3.jpg" alt="">
                         <span>Raju Sheoran</span>
                     </div>
         
@@ -335,9 +337,12 @@
                    </ul>  
                 </div>
                 <article>
-                    <p class="review">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit beatae ipsa
-                        voluptatibus perferendis quos eaque nemo error tempora harum quas, laudantium tenetur, neque,
-                        facere exercitationem!</p>
+                    <p class="review">
+                    Hello! I started the course knowing almost nothing about web development,
+                    but by the time I finished, I felt confident in many topics. The course
+                    progressed smoothly and was enjoyable in the beginning, which was great
+                    for getting warmed up and comfortable with the subject
+                    </p>
                     <p>Jan 01, 2023</p>
                 </article>
             </div>
